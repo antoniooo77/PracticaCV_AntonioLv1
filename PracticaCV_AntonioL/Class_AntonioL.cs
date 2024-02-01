@@ -6,7 +6,19 @@ using System.Threading.Tasks;
 
 namespace PracticaCV_AntonioL
 {
-    internal class Class_AntonioL
+    public class Class_AntonioL
     {
+        // CONSTANTES
+
+        // MIEMBROS
+
+        // PRIVADOS
+
+        // CONSTRUCTORES
+
+        // METODOS
+
+        // PROPIEDADES
+
     }
 }
